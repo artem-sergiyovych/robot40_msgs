@@ -1,2 +1,1 @@
-bool bumper1
-bool bumper2
+bool bumper
