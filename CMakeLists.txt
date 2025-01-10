@@ -18,6 +18,7 @@ find_package(std_msgs REQUIRED)
 
 set(msg_files
   msg/Bumper.msg
+  msg/Refvel.msg
 )
 
 
