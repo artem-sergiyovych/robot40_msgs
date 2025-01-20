@@ -1,2 +1,2 @@
-float32 leftrefvel
-float32 rightrefvel
+float32 ref_vel_right
+float32 ref_vel_left
