@@ -1,9 +1,9 @@
 bool  bumper1
 bool  bumper2
-float motor0_current
-float motor1_current
-int battery_level
-float temperature
-float voltage
+int8 battery_level
+float32 motor0_current
+float32 motor1_current
+float32 temperature
+float32 voltage
 float32 left_encoder
 float32 right_encoder
