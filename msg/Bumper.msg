@@ -5,3 +5,5 @@ float motor1_current
 int battery_level
 float temperature
 float voltage
+float32 left_encoder
+float32 right_encoder
