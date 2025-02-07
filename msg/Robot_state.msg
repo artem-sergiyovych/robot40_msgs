@@ -1,6 +1,6 @@
 bool  bumper1
 bool  bumper2
-int8 battery_level
+uint8 battery_level
 float32 motor0_current
 float32 motor1_current
 float32 temperature
