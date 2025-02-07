@@ -17,7 +17,7 @@ find_package(std_msgs REQUIRED)
 
 
 set(msg_files
-  msg/Robot_state.msg
+  msg/RobotState.msg
   msg/Refvel.msg
 )
 
